@@ -1,0 +1,6 @@
+{
+  "name": "MOLLIK HOME WEAR - Billing & Inventory",
+  "description": "Professional GST billing, point of sale (POS), inventory stock control, customer records, and sales management for Mollik Home Wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
